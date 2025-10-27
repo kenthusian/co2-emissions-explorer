@@ -68,13 +68,11 @@ python main.py
 ### 3️ Expected Output
 - The script reads the CO₂ dataset (`owid-co2-data.csv`).  
 - Performs statistical and comparative analysis.  
-- Displays or saves visualizations (like line charts, bar plots, etc.)  
 - Prints insights such as top emitting countries, trends over years, and emission growth.
 
 ---
 
-##  Example Features (Typical Outputs)
--  Total CO₂ emissions by continent  
+##  Example Features (Typical Outputs)  
 -  Yearly trend analysis for selected countries  
 -  Per capita CO₂ comparison  
 -  Global cumulative emissions visualization  
