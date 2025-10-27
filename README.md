@@ -1,5 +1,6 @@
 # co2-emissions-explorer
 A menu-driven Python CLI tool that uses Pandas and Numpy to analyze the "Our World in Data" CO2 emissions dataset.
+
 Global CO2 Emissions Explorer 🌎
 This is a project for the BACSE101: Problem Solving using Python course (Assessment 6).
 
