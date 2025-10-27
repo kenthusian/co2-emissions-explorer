@@ -28,7 +28,7 @@ The dataset includes:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python 3.8+**
 - **NumPy** – numerical computations  
 - **Pandas** – data analysis and manipulation  
