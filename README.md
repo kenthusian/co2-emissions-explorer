@@ -18,3 +18,5 @@ Analyze the historical emissions trend for any specific country.
 Compare the latest emissions data between two countries.
 
 View global statistics, such as total, average, and median emissions.
+
+Run the project by downloading the .zip file, extracting it, and opening a Terminal Window wherever the .py files lie in the extracted folder and then running the command "python main.py"
